@@ -1,0 +1,7 @@
+Enter a line of text:
+This is a line
+
+Letters: 11 
+White spaces : 4
+Digits : 0 
+Other chars : 0
